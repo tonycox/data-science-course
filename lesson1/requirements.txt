@@ -1,0 +1,12 @@
+futures
+freetype-py
+matplotlib
+seaborn
+numpy
+pandas
+pyparsing
+scipy
+scikit-learn
+ipykernel
+jupyter
+
